@@ -1,0 +1,1 @@
+This folder contains a matlab code with extension .m to make plots for problem 6.
